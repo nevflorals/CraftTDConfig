@@ -1,6 +1,6 @@
 {
-  Coins: 0,
-  Emeralds: 0,
-  Wins: 0,
-  Inventory: [],
+  "Coins": 0,
+  "Emeralds": 0,
+  "Wins": 0,
+  "Inventory": []
 }
